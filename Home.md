@@ -7,6 +7,7 @@ Paging (back,next and numeric link)
 Order by column (sort table by ascending and descending order)
 
 **Installation**
+
 Place the following files at corresponding location of your project.
 
 libraries/savtable.php 
